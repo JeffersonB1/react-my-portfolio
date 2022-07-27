@@ -1,0 +1,38 @@
+.Home {
+    background: rgb(19,0,36);
+    background: linear-gradient(90deg, rgba(19,0,36,1) 0%, rgba(114,9,121,1) 15%, rgba(0,31,255,1) 100%);
+    display: flex;
+    height: 630px ;
+    padding-top: 80px;
+    position : relative;
+
+}
+.Home .Container {
+    position:absolute;
+    top: 15%;
+    left: 2%;
+    color: white;
+
+}
+
+.Home .Container .Hello {
+    font-size : 63px
+}
+
+.Home .Container h1 {
+    margin: 0;
+}
+
+.Home .ballCode {
+    height: 70%;
+    position:absolute;
+    right: 10%;
+    top: 20%;
+}
+
+.Home .code {
+    height: 24%;
+    position :absolute;
+    bottom: 0;
+    left: 2%;
+}
