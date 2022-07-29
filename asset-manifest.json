@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-my-portfolio/static/css/main.f5946fe8.css",
+    "main.js": "/react-my-portfolio/static/js/main.ccb073e6.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/me.PNG": "/react-my-portfolio/static/media/me.7ae9aae71ded1b9e2dcf.PNG",
+    "static/media/fruitbook-screenshot.png": "/react-my-portfolio/static/media/fruitbook-screenshot.f22e1bd1e8b2580ecccb.png",
+    "static/media/financial-tracker-screenshot.png": "/react-my-portfolio/static/media/financial-tracker-screenshot.e063cf435efbe5dba757.png",
+    "static/media/proudCoder.svg": "/react-my-portfolio/static/media/proudCoder.62a6a2e36167da9c029a807da20af7e7.svg",
+    "static/media/progressiveApp.svg": "/react-my-portfolio/static/media/progressiveApp.7cf275ff6124bcda7afacc341302c7ec.svg",
+    "static/media/skillThink.svg": "/react-my-portfolio/static/media/skillThink.9f8c26853349112b981acb8f8d46dd74.svg",
+    "index.html": "/react-my-portfolio/index.html",
+    "main.f5946fe8.css.map": "/react-my-portfolio/static/css/main.f5946fe8.css.map",
+    "main.ccb073e6.js.map": "/react-my-portfolio/static/js/main.ccb073e6.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5946fe8.css",
+    "static/js/main.ccb073e6.js"
+  ]
+}
